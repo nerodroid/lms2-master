@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1011934620202",
+    "firebase_url": "https://lmsfinal.firebaseio.com",
+    "project_id": "lmsfinal",
+    "storage_bucket": "lmsfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011934620202:android:9b741f828d183cf9",
+        "android_client_info": {
+          "package_name": "project.com.lms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011934620202-ijk8a7a77l3mtbp36ccbbf43gh1v5bvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOUyq-1p2q4cJRYherT6s477JZzoFAzkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011934620202-ijk8a7a77l3mtbp36ccbbf43gh1v5bvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
